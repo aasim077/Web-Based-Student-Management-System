@@ -1,0 +1,70 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">   
+  <link rel="stylesheet" type="text/css" href="style.css">  
+  <style>
+  body{
+/*   background: -webkit-linear-gradient(left, #25c481, #25b7c4);
+ */  background: linear-gradient(to right, #63b0dd, #ffffff);
+   font-family: 'Roboto', sans-serif;
+}
+  
+  h2
+{
+	color:white;
+}
+  h1 {
+    margin: 0;
+    padding: 0px 0px 20px;
+    text-align: center;
+    font-size: 22px;
+    color: white;
+}
+  .login-box{
+  top: 120%;
+    height: 450px;
+    background: rgb(0 0 0 / 34%);
+    
+}
+
+.login-box input[type="button"]
+{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #1c8adb;
+    color: black;
+    font-size: 18px;
+    border-radius: 20px;
+}
+/* .login-box input[type="button"]:hover
+{
+    cursor: pointer;
+    background: #39dc79;
+    color: #000;
+} */
+</style>
+</head>
+<section id="banner">
+<body >
+ <!-- <%@ include file="header.jsp"> -->
+    <form method="post" action="adminLoginAction.jsp">
+    <div class="login-box">
+    <img src="user.png" class="avatar"> 
+        <h1>Admin Login</h1>
+            <p>Username</p>
+            <input type="text" name="username" placeholder="Enter Username" required="required">
+            <p>Password</p>
+            <input type="password" name="password" placeholder="Enter Password" required="required">
+            <input type="submit" name="submit" value="Login">
+            
+             <!-- <h1><a href="adminRegister.html"><input type="button" name="submit" value="Register">
+            
+            </a> -->
+            </form>
+             <center><a href="index.html">Back</a></h1></center>
+        </div> </body>
+        </section>  
+   
+</html>
