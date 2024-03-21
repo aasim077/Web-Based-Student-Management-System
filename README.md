@@ -34,35 +34,19 @@ A Student Management System (SMS) application is a software tool designed to hel
   
 - **Integration with other systems:** SMS can be integrated with other systems like payment gateway, library management system, and more.
 
-## AWS Elastic Beanstalk
-
-**AWS Elastic Beanstalk** is a fully managed service provided by Amazon Web Services (AWS) that makes it easy to deploy, run, and scale web applications and services. It abstracts away many of the underlying infrastructure details, making it simple for developers to quickly deploy and run their applications without worrying about provisioning servers or configuring load balancers. With Elastic Beanstalk, developers can simply upload their application code and Beanstalk will automatically handle the deployment, scaling, and monitoring of the application. Beanstalk supports a wide variety of programming languages and frameworks, including Java, .NET, PHP, Node.js, Python, Ruby, and Go. It also integrates with other AWS services such as Amazon RDS for database management, Amazon S3 for storage, and Amazon CloudWatch for monitoring. Additionally, Beanstalk allows you to easily configure and manage the underlying infrastructure of your application, such as the number of EC2 instances, the size of the instances, and the load balancer settings. It also provides monitoring and logging features, allowing you to track the performance of your application and troubleshoot any issues that arise. Overall, Elastic Beanstalk is a powerful tool for deploying and managing web applications and services, making it easy for developers to focus on building great applications without worrying about the underlying infrastructure.
-
 ##TECHNLOGY USED
 
 - **JSP**
-- **Servet**
+- **Servlet**
 - **JDBC**
 - **MYSQL**
 - **WorkBench**
 - **HTML**
 - **CSS**
+- **Ajax & Jquery**
+- **JSON**
+- **GSON**
 - **JavaScript**
 - **AWS RDS**
 - **AWS ElasticBean Stalk**
 
-
-
-## Problem Definition
-
-The problem that Student Management faces is the difficulties that educational institutions face in managing and organizing student information. The following are some specific problems that an SMS can address:
-
-- **Dispersed and redundant information:** Without a centralized system, student information is often stored in multiple locations, making it difficult to access and maintain. This can lead to inconsistencies and errors in student records.
-  
-- **Time-consuming data collection:** Gathering relevant information about a student, such as attendance records, grades, and contact information, can take a lot of time when using manual methods.
-  
-- **Inefficient communication:** Without an SMS, it can be difficult for teachers, administrators, and parents to communicate effectively.
-  
-- **Limited reporting capabilities:** Without an SMS, it can be difficult to generate reports on student activity and performance, which are necessary for analysis and planning.
-  
-- **Difficulty in handling a large number of students:** With an increasing number of students, it is becoming increasingly difficult for educational institutions to manage student information manually.
