@@ -40,16 +40,16 @@ A Student Management System (SMS) application is a software tool designed to hel
 
 ##TECHNLOGY USED
 
-**JSP
-**Servet
-**JDBC
-**MYSQL
-**WorkBench
-**HTML
-**CSS
-**JavaScript
-**AWS RDS
-**AWS ElasticBean Stalk
+-**JSP
+-**Servet
+-**JDBC
+-**MYSQL
+-**WorkBench
+-**HTML
+-**CSS
+-**JavaScript
+-**AWS RDS
+-**AWS ElasticBean Stalk
 
 
 
