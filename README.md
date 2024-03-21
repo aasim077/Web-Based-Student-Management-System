@@ -38,6 +38,21 @@ A Student Management System (SMS) application is a software tool designed to hel
 
 **AWS Elastic Beanstalk** is a fully managed service provided by Amazon Web Services (AWS) that makes it easy to deploy, run, and scale web applications and services. It abstracts away many of the underlying infrastructure details, making it simple for developers to quickly deploy and run their applications without worrying about provisioning servers or configuring load balancers. With Elastic Beanstalk, developers can simply upload their application code and Beanstalk will automatically handle the deployment, scaling, and monitoring of the application. Beanstalk supports a wide variety of programming languages and frameworks, including Java, .NET, PHP, Node.js, Python, Ruby, and Go. It also integrates with other AWS services such as Amazon RDS for database management, Amazon S3 for storage, and Amazon CloudWatch for monitoring. Additionally, Beanstalk allows you to easily configure and manage the underlying infrastructure of your application, such as the number of EC2 instances, the size of the instances, and the load balancer settings. It also provides monitoring and logging features, allowing you to track the performance of your application and troubleshoot any issues that arise. Overall, Elastic Beanstalk is a powerful tool for deploying and managing web applications and services, making it easy for developers to focus on building great applications without worrying about the underlying infrastructure.
 
+##TECHNLOGY USED
+
+**JSP
+**Servet
+**JDBC
+**MYSQL
+**WorkBench
+**HTML
+**CSS
+**JavaScript
+**AWS RDS
+**AWS ElasticBean Stalk
+
+
+
 ## Problem Definition
 
 The problem that Student Management faces is the difficulties that educational institutions face in managing and organizing student information. The following are some specific problems that an SMS can address:
